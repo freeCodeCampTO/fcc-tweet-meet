@@ -8,6 +8,6 @@ This is the AWS Lambda function that sends reminders about freeCodeCampTO's Satu
 
 ## Maintenance
 
-This program currently runs on an AWS Lambda function maintained by @victoriadotdev. Please ping her for updates.
+This program currently runs on an AWS Lambda function maintained by [Victoria](https://github.com/victoriadrake). Please ping her for updates.
 
 
